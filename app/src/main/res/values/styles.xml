@@ -1,0 +1,16 @@
+<resources>
+    <style name="DiaLabel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">16dp</item>
+        <item name="android:textColor">#B5B5B5</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="LeyendaCelda">
+        <item name="android:layout_width">16dp</item>
+        <item name="android:layout_height">10dp</item>
+        <item name="android:layout_marginStart">4dp</item>
+        <item name="android:layout_marginEnd">4dp</item>
+    </style>
+</resources>
